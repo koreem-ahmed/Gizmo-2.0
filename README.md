@@ -18,14 +18,17 @@ Now we start the assembly. First of all, get your LCD and glue it to the front h
 I made this 3D design using onshape software, it was like a new experience for me to design a small prototype like a robot with this components so i had a new experience and i made every thing with smth like joints to hold it together. Also i added my name and HC for Hack Club.
 And this is the design link:
 https://cad.onshape.com/documents/7c9149f39106583a98e32532/w/5ca8de735c404b6ef83d1411/e/55ea2a7bab61e22144a448e0?renderMode=0&uiState=6a34a954f7594a7258307f8a
+<br>
 <img width="627" height="706" alt="image" src="https://github.com/user-attachments/assets/58306a0e-3791-4f22-a9d6-c4937bf7ce00" />
 <img width="577" height="761" alt="Screenshot 2026-06-19 024403" src="https://github.com/user-attachments/assets/225fd1ff-2a44-4003-81b5-088edb300545" />
 
 
 ## Schematic
+This is a simple diagram for my circiut it havethenamea small introduction a digra for whot will the system work and 2 systems the power and the ESP32-S3 connections
 <img width="1170" height="838" alt="image" src="https://github.com/user-attachments/assets/0edfb5d5-1c9d-44a0-92c0-0cc3946cfa63" />
 
 ## PCB design
+A polished PCB design with a copper filled zone to my GND net also i assimblied it many times until i got this one with no problems.
 <img width="655" height="472" alt="image" src="https://github.com/user-attachments/assets/66cdaca6-1bef-4d31-ac1c-3c29388567cf" />
 
 ## magazine
