@@ -31,5 +31,6 @@ This is a simple diagram for my circiut it havethenamea small introduction a dig
 A polished PCB design with a copper filled zone to my GND net also i assimblied it many times until i got this one with no problems.
 <img width="655" height="472" alt="image" src="https://github.com/user-attachments/assets/66cdaca6-1bef-4d31-ac1c-3c29388567cf" />
 
-## magazine
+## Magazine
+<img width="545" height="835" alt="Gizmo 2 0 Zine" src="https://github.com/user-attachments/assets/45531ff8-8ec6-4704-b33c-3bad3f668d88" />
 
