@@ -34,3 +34,23 @@ A polished PCB design with a copper filled zone to my GND net also i assimblied 
 ## Magazine
 <img width="545" height="835" alt="Gizmo 2 0 Zine" src="https://github.com/user-attachments/assets/45531ff8-8ec6-4704-b33c-3bad3f668d88" />
 
+## BOM
+
+| Item | Price | Quan. | Place | Link |
+| :--- | :---: | :---: | :--- | :--- |
+| ESP32-s3 | 10.55 | 1 | future electronics | [View Item](https://store.fut-electronics.com/products/esp32-s3-devkitc-1?srsltid=AfmBOoo5ok_RH336v4kgNkFmU0aAF1dDe45BG5KH02IJx1Rra65h0LNp) |
+| ESP32 Camera OV5640 | 7.58 | 1 | makers | [View Item](https://makerselectronics.com/product/banana-pi-camera-ov5640-160-degree-5mp/?srsltid=AfmBOoqwwII_0DwU1h8Btitem8w31jUf-n4unO7NtXqaaZ5AVWlHgDsY) |
+| 18650 Lithium Ion Rechargeable | 4.62 | 2 | future electronics | [View Item](https://fut-electronics.com) |
+| AMS1117 3.3V Step-Down | 1 | 1 | micro ohm | [View Item](https://microohm-eg.com/ams1117-3-3-ldo-800ma-dc-5v-to-3-3v-step-down-power-supply-module/) |
+| Step Down 5A XL4015 | 1.63 | 1 | micro ohm | [View Item](https://microohm-eg.com/dc-dc-step-down-converter-variable-5a-xl4015/) |
+| BMS 2S 13A Lithium Battery Protection Board | 1.5 | 1 | micro ohm | [View Item](https://microohm-eg.com/2s-13a-18650-7-4v-8-4v-lithium-battery-protection-board/?utm_source=chatgpt.com) |
+| 2S 8.4V 2A 18650 Lithium Battery Charger Module USB Type C | | 1 | ram electronics | [View Item](https://www.ram-e-shop.com/ar/shop/kit-li-2s-charger-2s-8-4v-2a-18650-lithium-battery-charger-module-usb-type-c-9295?srsltid=AfmBOoqNP3OFFPA_uS9me429NkSkgtTsNjoG1qEyEM67Y3l1D3-WlItv) |
+| inm441 | 5.25 | 1 | Ali express | [View Item](https://ar.aliexpress.com/item/32934187800.html?gatewayAdapt=glo2ara) |
+| i2s amplifier (max 98357) | 2.6 | 1 | future electronics | [View Item](https://store.fut-electronics.com/products/max98357-i2s-3w-class-d-amplifier-audio-decoder-module?srsltid=AfmBOoqAc6RcUHtToGTEkW9skKCJ9fX_xuc7YFtfUabfdsT7n0q2HLyD) |
+| Speaker - 3W 4 Ohm | 1.54 | 1 | future electronics | [View Item](https://store.fut-electronics.com/products/speaker-3w-4-ohm?srsltid=AfmBOopv4otZbRL29DhJ3REfWfF-85G6EDgruAXGc6kVUNDOp2_l61lA) |
+| LCD Module 1.28 inch Round Display | 9 | 1 | micro ohm | [View Item](https://microohm-eg.com/round-lcd-module-1-28-inch-240x240-ips-color-with-gc9a01-controller/) |
+| TTP223 Capacitive Touch Sensor | 0.29 | 2 | makers | [View Item](https://makerselectronics.com/product/ttp223-capacitive-touch-sensor-module/?srsltid=AfmBOop7F_AzNeOoilzYLkXKq8DPKwVegbdnGAW85MecGYuK8TcNj0Ez) |
+| 1.3 kg.cm servo | 2 | 2 | Circuits electronics | [View Item](https://circuits-elec.com/products/servo-motor-1-3-kg-cm-standard?srsltid=AfmBOoorhdeY6_q4NXN0ngcBwieEeBY9QWrYb_PrgZwciAxm65uJPD-Y) |
+| PCB fabrication | 5 | 1 | JLCPCB | |
+| 3D design | 20 | | | |
+| **Total** | **75** | | | |
